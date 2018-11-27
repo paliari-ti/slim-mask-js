@@ -2,8 +2,11 @@
   "name": "js-mask",
   "version": "1.0.0",
   "description": "A mask library for JS",
-  "main": "index.js",
-  "repository": "git@github.com:paliari-ti/js-mask.git",
+  "main": "./index.js",
+  "repository": {
+    "url": "git@github.com:paliari-ti/js-mask.git",
+    "type": "git"
+  },
   "author": "Felipe Bohnert Paetzold <felipe.paetzold@gmail.com>",
   "license": "MIT",
   "private": false
