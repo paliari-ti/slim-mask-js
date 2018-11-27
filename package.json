@@ -4,7 +4,7 @@
   "description": "A mask library for JS",
   "main": "./index.js",
   "repository": {
-    "url": "git@github.com:paliari-ti/js-mask.git",
+    "url": "git@github.com:paliari-ti/slim-mask-js.git",
     "type": "git"
   },
   "author": "Felipe Bohnert Paetzold <felipe.paetzold@gmail.com>",
