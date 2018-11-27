@@ -15,12 +15,12 @@ mask('44999999999', '(##) # ####-####')
 import { maskit } from 'slim-mask-js'
 
 const tokens = {
-	    '**': { pattern: /\d/ },
-	    X: { pattern: /[0-9a-zA-Z]/ },
-      S: { pattern: /[a-zA-Z]/ },
-	    A: { pattern: /[a-zA-Z]/, transform: v => v.toLocaleUpperCase() },
-	    a: { pattern: /[a-zA-Z]/, transform: v => v.toLocaleLowerCase() },
-	    '!': { escape: true }
+  '**': { pattern: /\d/ },
+  X: { pattern: /[0-9a-zA-Z]/ },
+  S: { pattern: /[a-zA-Z]/ },
+  A: { pattern: /[a-zA-Z]/, transform: v => v.toLocaleUpperCase() },
+  a: { pattern: /[a-zA-Z]/, transform: v => v.toLocaleLowerCase() },
+  '!': { escape: true }
 }
 
 mask('44999999999', '(**) * ****-****')
