@@ -7,7 +7,7 @@
     "dist": "webpack --config webpack.config.js --mode production"
   },
   "repository": {
-    "url": "git@github.com:paliari-ti/slim-mask-js.git",
+    "url": "https://github.com/paliari-ti/slim-mask-js",
     "type": "git"
   },
   "author": "Felipe Bohnert Paetzold <felipe.paetzold@gmail.com>",
