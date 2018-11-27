@@ -1,5 +1,5 @@
 {
-  "name": "js-mask",
+  "name": "slim-mask-js",
   "version": "0.0.1",
   "description": "A mask library for JS",
   "main": "./index.js",
