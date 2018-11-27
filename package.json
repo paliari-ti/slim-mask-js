@@ -1,6 +1,6 @@
 {
   "name": "js-mask",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A mask library for JS",
   "main": "./index.js",
   "repository": {
