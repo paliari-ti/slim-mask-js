@@ -1,13 +1,23 @@
 {
   "name": "slim-mask-js",
   "version": "0.0.1",
-  "description": "A mask library for JS",
-  "main": "./index.js",
+  "description": "A lightweight mask for JavaScript",
+  "main": "./dist/slim-mask-js.js",
+  "scripts": {
+    "dist": "webpack --config webpack.config.js --mode production"
+  },
   "repository": {
     "url": "git@github.com:paliari-ti/slim-mask-js.git",
     "type": "git"
   },
   "author": "Felipe Bohnert Paetzold <felipe.paetzold@gmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "devDependencies": {
+    "@babel/core": "^7.1.6",
+    "@babel/preset-env": "^7.1.6",
+    "babel-loader": "^8.0.4",
+    "webpack": "^4.26.1",
+    "webpack-cli": "^3.1.2"
+  }
 }
