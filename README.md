@@ -38,11 +38,15 @@ const maskit = require('slim-mask-js).maskit
 
 - Install dependencies:
 
-`$yarn install` or `$ npm install`
+`$yarn install` or `$npm install`
 
 - Build
 
-`$yarn dist` or `$ npm run dist`
+`$yarn dist` or `$npm run dist`
+
+- Test
+
+`$yarn test` or `$npm run test`
 
 ### Authors
 
