@@ -3,6 +3,7 @@
   "version": "0.0.5",
   "description": "A lightweight mask for JavaScript",
   "main": "./dist/slim-mask-js.js",
+  "typings": "./types/index.d.ts",
   "scripts": {
     "dist": "webpack --config webpack.config.js --mode production",
     "test": "jest"
