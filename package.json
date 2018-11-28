@@ -1,6 +1,6 @@
 {
   "name": "slim-mask-js",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "description": "A lightweight mask for JavaScript",
   "main": "./dist/slim-mask-js.js",
   "scripts": {
