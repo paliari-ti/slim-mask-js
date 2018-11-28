@@ -1,5 +1,15 @@
 ## A lightweight mask for JavaScript
 
+### Install
+
+- With npm
+
+`npm install slim-mask-js`
+
+- With yarn (we <3 yarn)
+
+`yarn add slim-mask-js`
+
 ### Simple example using ES6
 
 ```
