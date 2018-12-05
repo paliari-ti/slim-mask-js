@@ -1,10 +1,14 @@
 {
   "name": "slim-mask-js",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "A lightweight mask for JavaScript",
   "main": "./dist/slim-mask-js.js",
   "typings": "./types/index.d.ts",
-  "keywords": ["mask", "javascript", "lightweight"],
+  "keywords": [
+    "mask",
+    "javascript",
+    "lightweight"
+  ],
   "scripts": {
     "dist": "webpack --config webpack.config.js --mode production",
     "test": "jest"
